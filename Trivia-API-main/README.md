@@ -36,7 +36,3 @@ The [backend](./backend) directory contains a more detailed documentaion on what
 The [frontend](./frontend) directory contains a complete React frontend to consume the data from the Flask server. If you have prior experience building a frontend application it should be fairly easy to understand.
 
 > View the [frontend README](./frontend/README.md) for more details.
-
-### API DOCUMENTATION
-
-Please check [here](https://stenwire.github.io/Trivia-API/) for the API documentation
